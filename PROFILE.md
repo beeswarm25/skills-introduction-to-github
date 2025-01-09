@@ -6,4 +6,5 @@ I am trying to Commit a new line of text.
     <li>Item 1</li>
     <li>Item 2</li>
 </ul>
+<h2>And perhaphs another heading?</h2>
 <p>extra p tag cause why not?</p>
