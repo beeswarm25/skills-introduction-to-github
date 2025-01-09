@@ -5,5 +5,5 @@ I am trying to Commit a new line of text.
 <ul>
     <li>Item 1</li>
     <li>Item 2</li>
-<ul>
+</ul>
 <p>extra p tag cause why not?</p>
